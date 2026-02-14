@@ -1,0 +1,8 @@
+--Between
+
+Usado pra encontrar valores entre um valor minimo e um valor maximo
+
+valor BETWEEN minimo AND maximo;
+
+é o mesmo que
+valor >= minimo AND valor <= maximo
