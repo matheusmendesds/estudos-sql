@@ -38,3 +38,22 @@ WHERE FirstName like '%essa%'
 SELECT *
 FROM Person.Person
 WHERE FirstName like '%ro_'
+
+--Exercicios
+EX 11
+Quantos produtos temos cadastrados no sistema que custa mais de 1500 dolares?
+
+Ex 12
+Quantos pessoas temos q o sobrenome inicia com a letra p?
+
+Ex 13
+Quantas cidades unicas estao cadastradas nossos clientes
+
+Ex 14
+Quais sao as cidades unicas cadastradas nos sistema?
+
+Ex 15
+Quantos produtos vermelhos tem o preco entre 500 e 1000 dolares?
+
+Ex 16
+Quantos produtos cadastrados tem a palavra 'road' no nome deles?
