@@ -22,3 +22,6 @@ INNER JOIN Production.ProductSubcategory as pc on p.ProductSubcategoryID = pc.Pr
 SELECT TOP 10 *
 FROM Person.BusinessEntityAddress BA
 INNER JOIN  Person.Address PA ON PA.AddressID = BA.AddressID;
+
+
+
