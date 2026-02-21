@@ -8,3 +8,6 @@ SELECT * FROM CarteiraMotorista
 
 insert into CarteiraMotorista (id,nome,idade)
 values(1,'Rafael',18);
+
+insert into CarteiraMotorista (id,nome,idade)
+values(1,18);
